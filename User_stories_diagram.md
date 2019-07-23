@@ -1,5 +1,5 @@
 |Objects|Messages|
 |---|---|
-|bike|release_bike, working?|
+|bike| working?|
 |person| |
-|docking station| |
+|docking station|release_bike|
